@@ -108,4 +108,4 @@ Work on human evolution: bipedalism, brain size, prolonged infancy, social learn
 
 Author
 
-Built by Avirj, a mechatronics engineering student, as a first deep project in AI and ML.
+Built by Aviraj, a mechatronics engineering student, as a first deep project in AI and ML.
